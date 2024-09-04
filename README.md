@@ -1,4 +1,4 @@
-# Hello, I'm Ashish Kanan 👋
+# Hi 👋, I'm Ashish Kanan 
 
 I'm a Computer Science undergrad who loves learning and fine-tuning new tech skills.
 
