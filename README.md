@@ -8,7 +8,8 @@ Feel free to explore my repositories and get in touch.
 
 ---
 
-- 🌱 Currently learning: Java, Full Stack Development
-- 💬 Ask me about: Programming, Tech, and Physics
+- 👨‍💻 Professional learning: Java, Full Stack Development, Copywriting
+- 🌱 Personal learning: French, Self-growth
+- 💬 Ask me about: Programming, Tech, Physics, and Human Persuasion
 - 📫 How to reach me: https://www.linkedin.com/in/ashishkanan/
 
